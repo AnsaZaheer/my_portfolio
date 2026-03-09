@@ -1,5 +1,5 @@
 
-Ansa Zaheer Animated Portfolio
+Ansa Zaheer Portfolio
 
 Open index.html to run locally.
 
